@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 - 💻 Tech Stack ...
  
+ <br/><br/>
+ 
+<h3>💻 Tech Stack 💻</h3>
+ 
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -30,6 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 </div>
+
+<br/>
+ 
 
 <br/>
 - 💬 Ask me about ...
