@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🍪 Hello, I'm BackEnd Developer rimi
+### 🍪 Hello! I'm BackEnd Developer rimi
 ### ✨ Tech Stack
 <p>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
