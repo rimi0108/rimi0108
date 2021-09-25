@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Tech Stack ...
- 
- <br/><br/>
+﹏﹏﹏﹏﹏﹏﹏
+
+<br/><br/>
  
 <h3>💻 Tech Stack 💻</h3>
  
@@ -36,10 +36,5 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
- 
 
-<br/>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
