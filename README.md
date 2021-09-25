@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rimi0108/rimi0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Tech Stack 
+💻 **Tech Stack**
 <p>
   <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
