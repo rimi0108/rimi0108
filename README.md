@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h2> 🍪 Hello! I'm Backend Developer rimi 🍪 </h2>
+  <h3> 🍪 Hello! I'm Backend Developer rimi 🍪 </h3>
   <p> I fell in ❤️‍🔥 with Django </p>
   <h4> ✨ Tech Stack ✨ </h4>
 <p>
