@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <br>
   <h4> I'm exploring these things 👩‍🏫 </h4>
   <p>
-  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
   </p>
   
 <p align="center">
