@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> 🍪 Hello! I'm Backend Developer rimi 🍪 </h3>
   
-  <p> As a backend developer, I want to contribute to services that make the lives of users more efficient and convenient. </p>
+  <p> As a backend developer, <br/>I want to contribute to services that make the lives of users more efficient and convenient. </p>
   
   <h4> ✨ Tech Stack ✨ </h4>
   <p>
