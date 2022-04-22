@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <p>
   </p>
-  <h4> I'm exploring these things 👩‍🏫 </h4>
+  <h4> I'm exploring these things 👩‍🏄‍♀️ </h4>
   <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
   <img alt="Rust" src ="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/>
 
