@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h3> Hello! I'm Backend Developer rimi </h3>
+  <h3> Hello! I'm Backend Developer rimi 🎧 </h3>
   
   <p> I want to contribute to services that make the lives of users more efficient and convenient. </p>
   
