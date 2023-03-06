@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-  <h2> 💻 </h2>
+  <h3> 💻 </h3>
   
   <p> I want to contribute to services that make the lives of users more efficient and convenient. </p>
 
