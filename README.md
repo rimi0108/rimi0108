@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-  <h1> I am a programmer </h1>
+  <h2> 💻 </h>
   
   <p> I want to contribute to services that make the lives of users more efficient and convenient. </p>
 
