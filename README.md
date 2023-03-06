@@ -17,17 +17,6 @@ Here are some ideas to get you started:
   <h3> Hello! I'm Backend Developer rimi 🎧 </h3>
   
   <p> I want to contribute to services that make the lives of users more efficient and convenient. </p>
-  
-  <h4> ✨ Main Tech Stack ✨ </h4>
-  <p>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
-  <p>
-  </p>
-  <h4> I'm exploring these things 🏄🏻‍♀️ </h4>
-  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
-  <img alt="Rust" src ="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/>
-
 
 </div>
 
