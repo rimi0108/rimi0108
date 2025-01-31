@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <h3> 🍀 </h3>
+  <h3> ¯\_(ツ)_/¯ </h3>
   
   <p> As a Python-loving backend developer, I want to use technology to contribute to making people life better.
 
