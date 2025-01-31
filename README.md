@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <h2> 💬 </h2>
+  <h2> Welcome to My GitHub Profile! </h2>
   
   <p>👨‍💻 As a <strong>Python-loving backend developer</strong> 🐍, I want to use technology 🔧 to contribute to making people's lives better 🌍.</p>
 
