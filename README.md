@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<h2> </h2>
+  <h2>✨ Welcome to My GitHub Profile! ✨</h2>
   
-  <p> 👨‍💻 As a Python-loving backend developer 🐍, I want to use technology 🔧 to contribute to making people's life better 🌍.
+  <p>👨‍💻 As a <strong>Python-loving backend developer</strong> 🐍, I want to use technology 🔧 to contribute to making people's lives better 🌍.</p>
 
-The goal is to solve complex issues 📊 through data and technology, and to create socially meaningful value 🌱. </p>
-
+  <p>The goal is to solve complex issues 📊 through data and technology, and to create socially meaningful value 🌱.</p>
+  
 </div>
-
 <br/>
 
   <p align="center">
