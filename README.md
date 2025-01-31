@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   
   <h3> 💻 </h3>
   
-  <p> I want to contribute to services that make the lives of users more efficient and convenient. </p>
+  <p> As a Python-loving backend developer, I want to use technology to contribute to making people life better.
+
+The goal is to solve complex issues through data and technology, and to create socially meaningful value. </p>
 
 </div>
 
