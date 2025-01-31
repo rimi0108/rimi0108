@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   
   <h3> ¯\_(ツ)_/¯ </h3>
   
-  <p> As a Python-loving backend developer, I want to use technology to contribute to making people life better.
+  <p> 👨‍💻 As a Python-loving backend developer 🐍, I want to use technology 🔧 to contribute to making people's life better 🌍.
 
-The goal is to solve complex issues through data and technology, and to create socially meaningful value. </p>
+The goal is to solve complex issues 📊 through data and technology, and to create socially meaningful value 🌱. </p>
 
 </div>
 
