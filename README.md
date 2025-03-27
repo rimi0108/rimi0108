@@ -35,9 +35,9 @@ and solving complex problems 📊 to create meaningful social value 🌱
 
 ### 📫 Let’s connect
 
-- Blog: [Beyond the Code](https://yourblog.link)  
-- Email: your.email@example.com  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-id)  
+- Blog: [Beyond the Code](https://velog.io/@rimi0108/)  
+- Email: hyerimc858@gmail.com 
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/hyerim-choi-8b5903227/)  
 
 ---
 
