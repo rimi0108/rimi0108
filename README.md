@@ -1,22 +1,49 @@
+<h2 align="center">🚀 Beyond the Code</h2>
+<p align="center">Building meaningful things through technology & thought.</p>
 
-## 👋 Hi there, I’m a developer growing Beyond the Code
+---
 
-👨‍💻 As a Python-loving backend developer 🐍,  
-I want to use technology 🔧 to contribute to making people's lives better 🌍.
+### 👋 About Me
 
-My goal is to solve complex issues 📊 through data and technology,  
-and to create socially meaningful value 🌱.
+Hi, I’m a backend developer who loves Python 🐍  
+I believe in using technology 🔧 to make people’s lives better 🌍  
+and solving complex problems 📊 to create meaningful social value 🌱
 
-I believe great software isn’t just about writing working code —  
-it’s about understanding the system, solving real problems,  
-and building something meaningful.
+---
 
-🛠 From programmer to engineer  
-📚 Learning deeply, thinking systemically  
-🌱 Growing one line at a time — beyond the syntax
+### 🎯 Philosophy
 
-> **Beyond the Code. Because the real story lies beyond the syntax.**
+> **Great software goes beyond working code.**  
+> It understands systems, solves real problems,  
+> and grows with purpose.
 
+- 🧠 From programmer to engineer  
+- 🔍 Thinking deeper, building smarter  
+- 🌱 Growing one line at a time — beyond the syntax
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages**: Python, JavaScript  
+- **Backend**: Django, FastAPI  
+- **Databases**: PostgreSQL, MySQL  
+- **Infra**: AWS (ECS, RDS, CloudWatch), Docker  
+- **Etc**: Git, Linux, CI/CD
+
+---
+
+### 📫 Let’s connect
+
+- Blog: [Beyond the Code](https://yourblog.link)  
+- Email: your.email@example.com  
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-id)  
+
+---
+
+<p align="center">
+  <em>“Beyond the Code. Because the real story lies beyond the syntax.”</em>
+</p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
