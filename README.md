@@ -1,29 +1,21 @@
 
-<!--
-**rimi0108/rimi0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I’m a developer growing Beyond the Code
 
-Here are some ideas to get you started:
+👨‍💻 As a Python-loving backend developer 🐍,  
+I want to use technology 🔧 to contribute to making people's lives better 🌍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to solve complex issues 📊 through data and technology,  
+and to create socially meaningful value 🌱.
 
-<div align="center">
+I believe great software isn’t just about writing working code —  
+it’s about understanding the system, solving real problems,  
+and building something meaningful.
 
-  <h2> Welcome to My GitHub Profile! </h2>
-  
-  <p>👨‍💻 As a <strong>Python-loving backend developer</strong> 🐍, I want to use technology 🔧 to contribute to making people's lives better 🌍.</p>
+🛠 From programmer to engineer  
+📚 Learning deeply, thinking systemically  
+🌱 Growing one line at a time — beyond the syntax
 
-  <p>The goal is to solve complex issues 📊 through data and technology, and to create socially meaningful value 🌱.</p>
-  
-</div>
-<br/>
+> **Beyond the Code. Because the real story lies beyond the syntax.**
 
 
 <a href="https://github.com/devxb/gitanimals">
