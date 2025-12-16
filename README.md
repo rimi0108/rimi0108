@@ -27,7 +27,7 @@ and solving complex problems 📊 to create meaningful social value 🌱
 
 - **Languages**: Python  
 - **Backend**: Django
-- **Databases**: PostgreSQL, MySQL  
+- **Databases**: PostgreSQL 
 - **Infra**: AWS (ECS, RDS, CloudWatch), Docker  
 - **Etc**: Git, Linux, CI/CD
 
