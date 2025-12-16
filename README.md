@@ -26,7 +26,7 @@ and solving complex problems 📊 to create meaningful social value 🌱
 ### 🛠 Tech Stack
 
 - **Languages**: Python  
-- **Backend**: Django, FastAPI  
+- **Backend**: Django
 - **Databases**: PostgreSQL, MySQL  
 - **Infra**: AWS (ECS, RDS, CloudWatch), Docker  
 - **Etc**: Git, Linux, CI/CD
