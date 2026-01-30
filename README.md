@@ -35,7 +35,10 @@ and solving complex problems 📊 to create meaningful social value 🌱
 
 ### 📫 Let’s connect
 
-- Blog: https://choirim.tistory.com/
+- Blog: 
+https://choirim.tistory.com/ (ko)
+https://dev.to/_e6641d4181e2ba2945d1f (en)
+
 - Email: hyerimc858@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/hyerim-choi-8b5903227
 
