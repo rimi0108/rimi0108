@@ -38,17 +38,5 @@ https://dev.to/_e6641d4181e2ba2945d1f (en)
     height="120"
   />
 </a>
-  
-  
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rimi0108&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/rimi0108?pet-id=842681915415343718"
-    width="600"
-    height="120"
-  />
-</a>
-  
-  
-</a>
   
