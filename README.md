@@ -1,7 +1,4 @@
-<h2 align="center">🚀 Beyond the Code</h2>
-<p align="center">Building meaningful things through technology & thought.</p>
 
----
 
 ### 👋 About Me
 
@@ -44,11 +41,15 @@ https://dev.to/_e6641d4181e2ba2945d1f (en)
 
 ---
 
-<p align="center">
-  <em>“Beyond the Code. Because the real story lies beyond the syntax.”</em>
-</p>
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rimi0108&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/rimi0108?pet-id=842681966103494961"
+    width="600"
+    height="120"
+  />
+</a>
+  
   
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rimi0108&utm_content=line">
