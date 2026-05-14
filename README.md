@@ -3,22 +3,11 @@
 ### 👋 About Me
 
 Hi, I’m a backend developer who loves Python 🐍  
-I believe in using technology 🔧 to make people’s lives better 🌍  
-and solving complex problems 📊 to create meaningful social value 🌱
+I believe in using technology to make people’s lives better 🌍  
+and solving complex problems to create meaningful social value 🌱
 
 ---
 
-### 🎯 Philosophy
-
-> **Great software goes beyond working code.**  
-> It understands systems, solves real problems,  
-> and grows with purpose.
-
-- 🧠 From programmer to engineer  
-- 🔍 Thinking deeper, building smarter  
-- 🌱 Growing one line at a time — beyond the syntax
-
----
 
 ### 🛠 Tech Stack
 
