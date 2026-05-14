@@ -6,8 +6,6 @@ Hi, I’m a backend developer who loves Python 🐍
 I believe in using technology to make people’s lives better 🌍  
 and solving complex problems to create meaningful social value 🌱
 
----
-
 
 ### 🛠 Tech Stack
 
@@ -17,7 +15,6 @@ and solving complex problems to create meaningful social value 🌱
 - **Infra**: AWS (ECS, RDS, CloudWatch), Docker  
 - **Etc**: Git, Linux, CI/CD
 
----
 
 ### 📫 Let’s connect
 
